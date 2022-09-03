@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiko Navarro</h1>
-<h3 align="center">Passionate about web development from Spain who studied a degree in economics and trying to learn something new every day about programming and web development</h3>
+<h3 align="center"> 🚀 Passionate about web development from Spain who studied a degree in economics and trying to learn something new every day about programming and web development</h3>
 
 - 🔭 I’m currently working on [Control de Gastos](https://control-gastos-beryl.vercel.app/)
 
