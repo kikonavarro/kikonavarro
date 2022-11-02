@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Control de Gastos](https://control-gastos-beryl.vercel.app/)
 
-- 🌱 I’m currently learning **JavaScript, React, NodeJS**
+- 🌱 I’m currently learning **JavaScript, React, NodeJS, Python**
 
 - 📫 How to reach me **kiko.nm@gmail.com**
 
